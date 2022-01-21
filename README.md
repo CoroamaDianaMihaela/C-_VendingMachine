@@ -1,5 +1,8 @@
 # Object Oriented Programming project
 
+This project was made in Visual Studio Code so to run the project you have to click on the .sln file.
+In this project I used templates for constructing the general repository and polymorphism.
+
 
 *English*
 
